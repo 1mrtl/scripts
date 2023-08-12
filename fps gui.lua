@@ -1,5 +1,5 @@
 pcall(function()
-local espcolor = Color3.fromRGB(255, 187, 0)
+local espcolor = Color3.fromRGB(0, 255, 0)
 local wallhack_esp_transparency = .4
 local gui_hide_button = {Enum.KeyCode.LeftControl, "h"}
 local plrs = game:GetService("Players")
@@ -207,7 +207,7 @@ Name.BackgroundColor3 = Color3.new(1, 1, 1)
 Name.BackgroundTransparency = 1
 Name.Size = UDim2.new(0.838, 0, 1, 0)
 Name.Font = Enum.Font.Arial
-Name.Text = "👁️ Oculus Aim v"..ver
+Name.Text = "FPS gui v"..ver
 Name.TextColor3 = Color3.new(0, 0, 0)
 Name.TextScaled = true
 Name.TextSize = 14
