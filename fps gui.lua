@@ -1,5 +1,5 @@
 pcall(function()
-local espcolor = Color3.fromRGB(140, 69, 102)
+local espcolor = Color3.fromRGB(255, 187, 0)
 local wallhack_esp_transparency = .4
 local gui_hide_button = {Enum.KeyCode.LeftControl, "h"}
 local plrs = game:GetService("Players")
